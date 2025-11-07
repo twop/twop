@@ -2,6 +2,8 @@ Hi there,
 
 I'm Simon, currently building [Shelv](https://shelv.app): Hackable, Local, AI-enabled notes. It is source available [here](https://github.com/twop/shelv). 
 
+My CV is [here](https://github.com/twop/twop/blob/main/resume/cv.pdf)
+
 ## About me
 I have been fascinated with software since I was a kid, as it usually happens, it started with a game: Baldur's Gate. But what happens less frequently is I became a game developer and worked on two big titles for 7 years.
 
@@ -20,7 +22,7 @@ Since then, I've worked in many different domains and different tech stacks, but
 
 
 ### Tools I'm using
-- DIY 34 keys split keyboard -> [Forager](https://github.com/carrefinho/forager)
+- DIY 34 keys split keyboard -> [Forager](https://github.com/carrefinho/forager) and my [travel case](https://github.com/twop/forager-travel-case)
 - Editor -> [Helix](https://helix-editor.com/)
 - Terminal -> [Alacritty](https://alacritty.org/) with [Zellij](https://zellij.dev/), I even wrote a plugin!
 - MacOS stuff:
