@@ -2,13 +2,6 @@ Hi there,
 
 I'm Simon, currently building [Shelv](https://shelv.app): Hackable, Local, AI-enabled notes. It is source available [here](https://github.com/twop/shelv). 
 
-There are a few ideas behind it:
- - Either tools are too barebones or are too flexible and complex (I'm looking at you Obsidian), My thesis is that the alternative to both is **hackable**.
-- When Notion did not open up on the plane, I realized that I'm *renting my data*. So I want **data ownership** with *cloud utility*. 
-- I have somewhat mixed feelings about LLMs, but I do like these use cases in Shelv:
-	* Asking the assistant "What are my current keybindings?" -> **discovery**
-	* Or "Add a shortcut that outputs the current date in yyyy/mm/dd" -> **automating bespoke one-off UI**
-
 ## About me
 I have been fascinated with software since I was a kid, as it usually happens, it started with a game: Baldur's Gate. But what happens less frequently is I became a game developer and worked on two big titles for 7 years.
 
